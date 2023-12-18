@@ -1,6 +1,8 @@
 # Componente Trabalho
 
-Bem-vindo ao nosso projeto de site responsivo incrível! Este projeto utiliza HTML e CSS para criar uma experiência de usuário envolvente, e inclui animações personalizadas para tornar a navegação mais dinâmica e atraente.
+Bem-vindo ao projeto deste site responsivo incrível! Este projeto utiliza HTML e CSS para criar uma experiência de usuário envolvente, e inclui animações personalizadas para tornar a navegação mais dinâmica e atraente.
+
+![image](https://github.com/dcarminatti/componente-trabalho/assets/68664365/2d9daa77-35f1-43c4-92df-980087066e2c)
 
 ## Visão Geral
 
